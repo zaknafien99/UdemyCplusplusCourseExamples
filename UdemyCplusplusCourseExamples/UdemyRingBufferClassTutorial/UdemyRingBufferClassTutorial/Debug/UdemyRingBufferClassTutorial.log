@@ -1,0 +1,3 @@
+﻿  UdemyRingBufferClassTutorial.cpp
+E:\Visual Studio Repos\UdemyRingBufferClassTutorial\UdemyRingBufferClassTutorial\UdemyRingBufferClassTutorial.cpp(16,26): warning C4018: '<': signed/unsigned mismatch
+  UdemyRingBufferClassTutorial.vcxproj -> E:\Visual Studio Repos\UdemyRingBufferClassTutorial\Debug\UdemyRingBufferClassTutorial.exe

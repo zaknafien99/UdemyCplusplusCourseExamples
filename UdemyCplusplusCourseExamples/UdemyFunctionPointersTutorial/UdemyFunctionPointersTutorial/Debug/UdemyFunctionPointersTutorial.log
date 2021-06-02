@@ -1,0 +1,4 @@
+﻿  UdemyFunctionPointersTutorial.cpp
+E:\Visual Studio Repos\UdemyFunctionPointersTutorial\UdemyFunctionPointersTutorial\UdemyFunctionPointersTutorial.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+E:\Visual Studio Repos\UdemyFunctionPointersTutorial\UdemyFunctionPointersTutorial\UdemyFunctionPointersTutorial.cpp(46,6): warning C4550: expression evaluates to a function which is missing an argument list
+  UdemyFunctionPointersTutorial.vcxproj -> E:\Visual Studio Repos\UdemyFunctionPointersTutorial\Debug\UdemyFunctionPointersTutorial.exe

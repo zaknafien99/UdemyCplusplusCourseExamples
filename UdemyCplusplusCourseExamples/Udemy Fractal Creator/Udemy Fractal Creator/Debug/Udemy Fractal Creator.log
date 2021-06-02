@@ -1,0 +1,10 @@
+﻿  FractalCreator.cpp
+E:\Visual Studio Repos\Udemy Fractal Creator\Udemy Fractal Creator\bitmap.h(17,13): error C2143: syntax error: missing ';' before '<'
+E:\Visual Studio Repos\Udemy Fractal Creator\Udemy Fractal Creator\bitmap.h(17,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Visual Studio Repos\Udemy Fractal Creator\Udemy Fractal Creator\bitmap.h(17,33): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+E:\Visual Studio Repos\Udemy Fractal Creator\Udemy Fractal Creator\FractalCreator.cpp(9,2): error C2512: 'caveofprogramming::ZoomList': no appropriate default constructor available
+E:\Visual Studio Repos\Udemy Fractal Creator\Udemy Fractal Creator\ZoomList.h(15,8): message : see declaration of 'caveofprogramming::ZoomList'
+E:\Visual Studio Repos\Udemy Fractal Creator\Udemy Fractal Creator\FractalCreator.cpp(8,3): error C2614: 'caveofprogramming::FractalCreator': illegal member initialization: 'm_zoomlist' is not a base or member
+E:\Visual Studio Repos\Udemy Fractal Creator\Udemy Fractal Creator\FractalCreator.cpp(66,18): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Udemy Fractal Creator.cpp
+  Generating Code...

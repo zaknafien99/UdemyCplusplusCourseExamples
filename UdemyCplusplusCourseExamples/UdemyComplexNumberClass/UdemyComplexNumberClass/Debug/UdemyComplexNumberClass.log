@@ -1,0 +1,2 @@
+﻿UdemyComplexNumberClass.obj : error LNK2019: unresolved external symbol "class caveofprogramming::Complex __cdecl caveofprogramming::operator+(double,class caveofprogramming::Complex &)" (??Hcaveofprogramming@@YA?AVComplex@0@NAAV10@@Z) referenced in function _main
+E:\Visual Studio Repos\UdemyComplexNumberClass\Debug\UdemyComplexNumberClass.exe : fatal error LNK1120: 1 unresolved externals
